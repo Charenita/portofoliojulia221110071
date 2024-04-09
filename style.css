@@ -1,0 +1,23 @@
+body{
+    min-height:2000px ;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(237, 167, 205);
+}
+
+#portofolio{
+    background-color: rgb(237, 167, 205);
+
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 2px solid rgb(16, 15, 16);
+    border-radius: 30px;
+    text-decoration: none;
+    color: rgb(21, 20, 21); /* Warna teks */
+    transition: background-color 0.3s, color 0.3s;
+
+}
